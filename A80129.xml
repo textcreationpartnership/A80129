@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Collections of notes taken at the Kings Tryall, at Westminster Hall, on Saturday last, Janua. 27. 1648. VVith the sentence denounced against the King who is condemned to be beheaded.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80129</idno>
+            <idno type="STC">Wing C5220</idno>
+            <idno type="STC">Thomason E540_9</idno>
+            <idno type="STC">ESTC R205755</idno>
+            <idno type="EEBO-CITATION">99865039</idno>
+            <idno type="PROQUEST">99865039</idno>
+            <idno type="VID">117274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117274)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Collections of notes taken at the Kings Tryall, at Westminster Hall, on Saturday last, Janua. 27. 1648. VVith the sentence denounced against the King who is condemned to be beheaded.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117274:1"/>
+            <head>Collections of Notes Taken it the KINGS Tryall, at VVeſtminſter Hall, On Saturday laſt, <hi>Janua.</hi> 27. 1648. VVith the ſentence Denounced a<g ref="char:EOLhyphen"/>gainſt the KING, who is condem<g ref="char:EOLhyphen"/>ned to be Beheaded.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Roclamation was made, the Court ſet and called, 70 Commiſſioners then preſent: The Hall doore was commanded to bee ſetopen, And the Serjeant at Armes was ſent to appoint them to bring away the King to the Barre.</p>
+            <p>At the kings comming to the Bar, the Souldiers and alſo the people many of them cryed out, <hi>Execution, execution, execution.</hi>
+            </p>
+            <p>Proclamation made and ſilence commanded.</p>
+            <p>The Lord Preſident began to make a ſpeech, But the king offered to interrupt him, by preſſing that he might be heard firſt.</p>
+            <p>The Lord Preſident told him that hee might bee heard in his time. The king asked whither he ſhould
+<pb n="2" facs="tcp:117274:2"/> be heard before Judgement was denounced, the Lord Preſident told him, that hee ſhould have liberty to ſpeake before the ſentence was pronounced. And thereupon the king did forbeare.</p>
+            <p>The Lord Preſident proceeded to his Speech by which he declared before the Court, That they knew that the priſoner had been often at the Bar, before the Court, And a charge brought in againſt him, but that he had ſtill been ſo far from putting in his An<g ref="char:EOLhyphen"/>ſwer, that he diſputed their authority, and demurred to the juriſdiction of the Court, authorized by the higheſt Court in the kingdome, that the Court over<g ref="char:EOLhyphen"/>ruled the demurrer.</p>
+            <p>That yet (notwithſtanding) he continued willfull, and in contumacy againſt the power of the Court, the higheſt Court of juſtice.</p>
+            <p>That the Charge againſt him, and his contumacy to the Court was conſidered upon, and the power of the Law againſt ſuch offences as are charged againſt him.</p>
+            <p>But yet if he have ſomewhat to ſay, the Court will heare him, if he deſire it: But if it be to diſpute the power of the Court, that was not to be ſuffered; for therein he ſtrucke at the root of all power, the power, where it lies originally, the power of the ſupreame Court, the Commons of England in Parliament aſ<g ref="char:EOLhyphen"/>ſembled, which the Court can by no meanes permit.</p>
+            <p>Yet that if he would ſpeak any thing to the matter contained in the Charge, he ſhould be heard concerning what he had to ſay, as to that.</p>
+            <pb n="3" facs="tcp:117274:2"/>
+            <p>Then the King ſpake, preſſing to be heard in ſome things that he had to offer, which he ſayd was moſt materiall to the peace of the kingdome, and good of his people, preſſing alſo his owne honour and conſcience.</p>
+            <p>And that though in thoſe reſpects he might have delayed to have had ſentence paſſed upon him, yet hee deſired that they would hear his motives. And ſaid that an haſty ſentence paſſed, may ſooner be repealed then recalled. And that which the King now moved for, was; that before ſentence was de<g ref="char:EOLhyphen"/>nounced, he might be heard in the Painted Chamber, before the Lords and Commons, preſſing hard that this might bee granted, ſaying, that it might be that they had not thought of ſuch a thing before. And he uſed divers arguments to perſwade them to conſider of this his motion.</p>
+            <p>The Lord Preſident told the King, that this was ſtill a fur<g ref="char:EOLhyphen"/>ther declining of the Authority of this Court.</p>
+            <p>The King anſwered the Lord Preſident, That it was no declining of the Court: only that hee had ſomething to offer the Lords and Commons for the peace of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The Lord Preſident asked the King, if hee did not decline the Court.</p>
+            <p>The King ſaid, not in that which he had ſaid, And preſſed that the Court would heare their King, what he had to ſay.</p>
+            <p>The Lord Preſident told the King, that the Court hath waited 3 Courts before this,
+<pb n="4" facs="tcp:117274:3"/> to heare him, with great patience, and that he might in Anſwer to his Charge have ſaid what hee had pleaſed<g ref="char:punc">▪</g> But that he diſputed the power of the Court, and diſowned them; Though he was acquainted that it was foun<g ref="char:EOLhyphen"/>ded upon the authority of the Commons of <hi>England</hi> in Parliament aſſembled, The ſu<g ref="char:EOLhyphen"/>preame power of the Kingdome, and that now again he appealed to another Juriſdicti<g ref="char:EOLhyphen"/>on; And that theſe things ſtill ſavour of de<g ref="char:EOLhyphen"/>layes.</p>
+            <p>But that yet this Court would withdraw, before the pronouncing of ſentence, to con<g ref="char:EOLhyphen"/>ſider of what had paſſed.</p>
+            <p>The King asked whether he ſhould with<g ref="char:EOLhyphen"/>draw.</p>
+            <p>The Lord Preſident anſwered, that hee ſhould know the pleaſure of the Court pre<g ref="char:EOLhyphen"/>ſently.</p>
+            <p>Then Proclamation was made to declar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Court did adjourn itſelf, for half an houre, into the Court of Wards.</p>
+            <p>But before they withdrew, command was given to the Serjeant at Armes, that the priſo<g ref="char:EOLhyphen"/>ner withdraw, And ſo the King withdrew,
+<pb n="5" facs="tcp:117274:3"/> and as he was going down, the Souldiers and the People cryed, <hi>Execution, execution.</hi>
+            </p>
+            <p>The Court then withdrew into the Court of <hi>Wards</hi> for halfe an houre, and then return<g ref="char:EOLhyphen"/>ed, Proclamation was made, And the King<g ref="char:punc">▪</g> again ſent for, and brought to the Bar. The people cryed out again <hi>Execution, Execution.</hi> The Lord Preſident then ſpak declaring that upon the Kings deſire they had adjourned to conſider of what hee had then ſaid to the Court. That it hath been declared by what authority they have power, that they have it by an Act of the Commons of <hi>England</hi> in Parliament Aſſembled, from them they have their Commiſſion. That the Court hath con<g ref="char:EOLhyphen"/>ſidered what he had moved, and find nothing but further delaies.</p>
+            <p>And that they had conſidered of his de<g ref="char:EOLhyphen"/>faults, and were unanimouſly reſolved, that ſentence and judgement ſhould be pronoun<g ref="char:EOLhyphen"/>ced<g ref="char:punc">▪</g>
+            </p>
+            <p>The King ſtill preſſed as he had done before, and that it was out of his good Intentions which he owes to his people<g ref="char:punc">▪</g> and urged much to be heard by the Lords and Commons in the painted Chamber, con<g ref="char:EOLhyphen"/>cerning what he had to propound concerning the Kingdome.</p>
+            <pb n="6" facs="tcp:117274:4"/>
+            <p>The Lord Preſident declared that the Court had conſidered fully of what he had ſaid in that, but that added nothing at all relating to the charge, to which he was to anſwer; and then the Lord Preſident told the King, that the Court did deſire to know of him whether he had any thing more to ſay for himſelfe, why ſentence ſhould not be denounced againſt him.</p>
+            <p>The King ſtill preſſed to his former deſires.</p>
+            <p>The Lord Preſident told him, that it was in vain to reinforce theſe things again, for the Court had con<g ref="char:EOLhyphen"/>ſidered fully thereof, and declared their Reſolutions, and it was required whether he had any thing elſe to ſay.</p>
+            <p>Then the Lord Preſident made a moſt excellent Speech, in which he gave very great ſatisfaction (as to the whole buſineſſe) to all that heard him.</p>
+            <p>That the Court had ſomething further to ſay to him.</p>
+            <p>That he a few daies ſince ſpake well of deferring the Peace of the Kingdome, but that his actions have been quite contrary; that he hath gone upon very erronious principles with his party, and that they had let fall ſuch language as this; That for whatſoever he had done he was to give account to none but God, and that he was ſuperiour to the Law, and whereas he ſhould have laboured to protect the Laws of the land, that the King would probably anſwer, that ſo he had done, but who ſhall judge that, That he and his par<g ref="char:EOLhyphen"/>ty, ſuch and ſuch perſons that had gone away from the Courts of Law and from the Parliament, they were not fit to be Iudges of the Parliament, the high<g ref="char:EOLhyphen"/>eſt Court of the Kingdome, The Commons of Eng<g ref="char:EOLhyphen"/>land in Parliament aſſembled.</p>
+            <pb n="7" facs="tcp:117274:4"/>
+            <p>And that as the Law is above the King, ſo there is ſomething above the Law, the people of England, all Laws are for their peace and ſafety.</p>
+            <p>That they gave Laws to their Governours.</p>
+            <p>That it is true, as the King is King he is above one private Subject, and hath no Peere, but before a Court of Juſtice, there he is in compariſon with the Court the leſſer: That if the King be without a bridle, they are to bridle Him.</p>
+            <p>The Lord Preſident inſtanced the Barons VVarres, that then they would not ſuffer Kings to be Tirants. And that if they now will neglect what the Barons of old did ſo careful<g ref="char:EOLhyphen"/>ly looke to, that they will not be neg<g ref="char:EOLhyphen"/>ligent of their duty.</p>
+            <p>The Electors of a King is to have juſtice executed; he is but an Officer intruſted by the people: And if he go away from that, they may call him to account for it.</p>
+            <p>Parliaments were to adjudge concerning wrongs done by the King, Queene, and their children, when they could not have releefe elſewhere, the caſe of the people of England now have been the ſame; and where ſhould the Kingdome be relieved better then by the Parliament, and what wrong he had done to the people, ſad experience witneſſed,</p>
+            <pb facs="tcp:117274:5"/>
+            <p>That he ſaid a few daies ſince he knew the Lawes as well as moſt Gentlemen, That hee that knew his Maſters will and did it not<g ref="char:punc">▪</g> deſerved the mor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtripes. And ſome examples given King <hi>Edw.</hi> 3. and others he declared alſo concerning the Kings actions to force Parliaments, and of Parliaments, and what meanes he hath uſed to cruſh this Parliament, the great bulwarke of the peoples ſafety to teare it up, that ſo the Subjects liberties might be deſtroyed.</p>
+            <p>Then the Lord Preſident gave preſidents of divers Tyrants that have ſuffred for their Tyranny (though one wiſhed that the people of Rome had but one nee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he might cut them all off at once.</p>
+            <p>France, Spaine, Aragon, Rome, the Ephory of Lacidemonia, Scotland, nay the Kings Grandmo<g ref="char:EOLhyphen"/>ther, and ſo in England many preſidents, both in the limes of the Saxons, and ſince the conqueſt, many examples have been quoted.</p>
+            <p>That though Kings have title by inheritance, yet they are conformed by the people, and by the Kings Tyranny they are looſed.</p>
+            <p>Then the Lord Preſident declared wherein the King had been a Tyrant, Traytor, and murderer, and what God hath commanded to be writen concerning a murderer, Gen. 9. and Numb. 35. and preſſed the king in a ſweet manner to repent of his ſinnes.</p>
+            <p>And he alſo declared the reſolution of the Court, to go on in the worke of the Lord, againſt all oppoſition though they ſhould periſh in it. And the Sentence was denounced againſt the king.</p>
+            <p>The Sentence denounced againſt the King was, That the ſaid <hi>Charles Stuart</hi> King of England ſhall be put to death by having hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> head cut off from his Body.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>Jannu. 27. 1648.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Theodore Jermings.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed by Robert Ibbitſon. 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
